@@ -1,0 +1,64 @@
+Seats won by alliance party,,,,,Number of NDA and INDIA seats in each state,,,,,,,,,
+Alliance Party,Seats,,,,State Name,INDIA,NDA,others,,,NDA,INDIA,,Dominant Party
+NDA       ,292,,,,Andaman & Nicobar Islands,0,1,0,,,100.00%,0.00%,100.00%,NDA
+INDIA     ,234,,,,Andhra Pradesh,0,21,4,,,84.00%,0.00%,84.00%,NDA
+others     ,17,,,,Arunachal Pradesh,0,2,0,,,100.00%,0.00%,100.00%,NDA
+,,,,,Assam,3,10,1,,,71.43%,21.43%,71.43%,NDA
+,,,,,Bihar,9,30,1,,,75.00%,22.50%,75.00%,NDA
+Alliance Party Dominant in state,,,,,Chandigarh,1,0,0,,,0.00%,100.00%,100.00%,INDIA
+Party,Dominant States Count,,,,Chhattisgarh,1,10,0,,,90.91%,9.09%,90.91%,NDA
+,0,,,,Dadra & Nagar Haveli and Daman & Diu,0,1,1,,,50.00%,0.00%,50.00%,NDA
+INDIA,14,,,,Goa,1,1,0,,,50.00%,50.00%,50.00%,Shared
+NDA,19,,,,Gujarat,1,25,0,,,96.15%,3.85%,96.15%,NDA
+others,2,,,,Haryana,5,5,0,,,50.00%,50.00%,50.00%,Shared
+Shared,2,,,,Himachal Pradesh,0,4,0,,,100.00%,0.00%,100.00%,NDA
+Grand Total,37,,,,Jammu and Kashmir,2,2,1,,,40.00%,40.00%,40.00%,NDA
+,,,,,Jharkhand,5,8,0,,,61.54%,38.46%,61.54%,NDA
+,,,,,Karnataka,9,19,0,,,67.86%,32.14%,67.86%,NDA
+,,,,,Kerala,18,1,0,,,5.26%,94.74%,94.74%,INDIA
+Highest Margin Constituency in each state,,,,,Kerala Congress,1,0,0,,,0.00%,100.00%,100.00%,INDIA
+Parliament Constituency,State Name,Alliance,,,Ladakh,0,0,1,,,0.00%,0.00%,0.00%,others
+Aska(19),Odisha,NDA,,,Lakshadweep,1,0,0,,,0.00%,100.00%,100.00%,INDIA
+Jaunpur(73),Uttar Pradesh,INDIA,,,Madhya Pradesh,0,29,0,,,100.00%,0.00%,100.00%,NDA
+Bellary(9),Karnataka,INDIA,,,Maharashtra,30,17,1,,,35.42%,62.50%,62.50%,INDIA
+KARAULI-DHOLPUR (10),Rajasthan,INDIA,,,Manipur,2,0,0,,,0.00%,100.00%,100.00%,INDIA
+Valmiki Nagar (1),Bihar,NDA,,,Meghalaya,1,0,1,,,0.00%,50.00%,50.00%,INDIA
+Maval(33),Maharashtra,NDA,,,Mizoram,0,0,1,,,0.00%,0.00%,0.00%,others
+Nagarkurnool(12),Telangana,INDIA,,,NCT OF Delhi,0,7,0,,,100.00%,0.00%,100.00%,NDA
+East Delhi(3),Delhi,NDA,,,Nagaland,1,0,0,,,0.00%,100.00%,100.00%,INDIA
+Kolkata Uttar(24),West Bengal,INDIA,,,Odisha,1,20,0,,,95.24%,4.76%,95.24%,NDA
+SHIMLA(4),Himachal Pradesh,NDA,,,Puducherry,1,0,0,,,0.00%,100.00%,100.00%,INDIA
+Anand(16),Gujarat,NDA,,,Punjab,10,0,3,,,0.00%,76.92%,76.92%,INDIA
+Kottayam(14),Kerala,INDIA,,,Rajasthan,10,14,1,,,56.00%,40.00%,56.00%,NDA
+Outer Manipur(2),Manipur,INDIA,,,Sikkim,0,1,0,,,100.00%,0.00%,100.00%,NDA
+SATNA(9),Madhya Pradesh,NDA,,,Tamil Nadu,39,0,0,,,0.00%,100.00%,100.00%,INDIA
+Gurdaspur(1),Punjab,INDIA,,,Telangana,9,8,0,,,47.06%,52.94%,52.94%,INDIA
+Giridih(6),Jharkhand,NDA,,,Tripura,0,2,0,,,100.00%,0.00%,100.00%,NDA
+Sikkim(1),Sikkim,NDA,,,Uttar Pradesh,43,36,1,,,45.00%,53.75%,53.75%,INDIA
+Rajampet(24),Andhra Pradesh,others,,,Uttarakhand,0,5,0,,,100.00%,0.00%,100.00%,NDA
+Palakkad(8),Kerala,INDIA,,,West Bengal,30,12,0,,,28.57%,71.43%,71.43%,INDIA
+GURGAON(9),Haryana,NDA,,,,,,,,,,,,
+VILUPPURAM(13),Tamil Nadu,INDIA,,,,,,,,,,,,
+MIZORAM(1),Mizoram,others,,,,,,,,,,,,
+SURGUJA(1),Chhattisgarh,NDA,,,,,,,,,,,,
+Daman & Diu (1),Dadra and Nagar Haveli and Daman and Diu,others,,,#REF!,,,,,,,,,
+Tripura West(1),Tripura,NDA,,,,,,,,,,,,
+Kokrajhar (1),Assam,others,,,,,,,,,,,,
+Nagaland(1),Nagaland,INDIA,,,,,,,,,,,,
+Shillong(1),Meghalaya,others,,,,,,,,,,,,
+Nainital-Udhamsingh Nagar(4),Uttarakhand,NDA,,,,,,,,,,,,
+Arunachal East(2),Arunachal Pradesh,NDA,,,,,,,,,,,,
+ANANTNAG-RAJOURI(3),Jammu and Kashmir,INDIA,,,,,,,,,,,,
+Ladakh(1),Ladakh,others,,,,,,,,,,,,
+Lakshadweep(1),Lakshadweep,INDIA,,,,,,,,,,,,
+Chandigarh(1),Chandigarh,INDIA,,,,,,,,,,,,
+Andaman & Nicobar Islands(1),Andaman and Nicobar Islands,NDA,,,,,,,,,,,,
+PUDUCHERRY(1),Puducherry,INDIA,,,,,,,,,,,,
+South Goa(2),Goa,INDIA,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+State with highest number of seats,,,,,,,,,,,,,,
+State Name    ,Total seats,NDA seats,INDIA seats,,,,,,,,,,,
+Uttar Pradesh,81,36,43,,,,,,,,,,,
